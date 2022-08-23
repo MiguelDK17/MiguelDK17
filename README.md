@@ -4,7 +4,7 @@
 [![Miguel GitHub stats](https://github-readme-stats.vercel.app/api?username=migueldk17&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=migueldk17)](https://github.com/anuraghazra/github-readme-stats)
 
-##Linguagens que aprendi em meu curso e estudo diariamente em casa
+##Linguagens que conheço e tenho tenho experiência
 
 <div style="display: inline_block"></br>
     <img align = "center" alt="Badge Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
