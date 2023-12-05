@@ -11,6 +11,7 @@
     <img align = "center" alt="Imagem Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
     <img align = "center" alt="Badge Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
     <img align = "center" alt="Imagem Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+    <img align = "center"  alt="Imagem_Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
 </div><br/>
  
  Meu sonho é me tornar um grande desenvolvedor e mudar o mundo com minhas habilidades 🚀 mas primeiro vamos começar pelo mais simples 😄
