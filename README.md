@@ -17,6 +17,9 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+![Coding GIF](https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif)
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/migueldk17/migueldk17/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/migueldk17/migueldk17/output/github-snake.svg" />
