@@ -1,3 +1,6 @@
+
+![Welcome Banner](https://github.com/MiguelDK17/MiguelDK17/blob/main/Capa%20Github.png)
+
 # 👋 Hello, welcome to my GitHub!
 <br>I'm a mobile developer passionate about creating apps that make a difference! I work with technologies like Kotlin, Jetpack Compose, Firebase, and Hilt to build impactful Android applications. I enjoy exploring and applying best practices in architecture, like MVVM, to ensure the efficiency and scalability of my projects.<br><br>In addition to mobile development, I have a soft spot for back-end and am always looking for ways to make my solutions more comprehensive, functional, and well-integrated. I believe in the power of the open-source community and am always seeking new ways to contribute and learn!
 
@@ -18,6 +21,8 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ![Coding GIF](https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif)
+
+
 
 
 <picture>
