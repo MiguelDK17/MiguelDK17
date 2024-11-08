@@ -1,19 +1,18 @@
-### Olá meu nome é Miguel 😀
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100008259308268)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-francisco-6353571a3/)
-
-[![Miguel GitHub stats](https://github-readme-stats.vercel.app/api?username=migueldk17&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=migueldk17)](https://github.com/anuraghazra/github-readme-stats)
-
-##Linguagens que conheço e tenho tenho experiência
-
-<div style="display: inline_block"></br>
-    <img align = "center" alt="Badge Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-    <img align = "center" alt="Imagem Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
-    <img align = "center" alt="Badge Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-    <img align = "center" alt="Imagem Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-    <img align = "center"  alt="Imagem_Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-</div><br/>
- 
- Meu sonho é me tornar um grande desenvolvedor e mudar o mundo com minhas habilidades 🚀 mas primeiro vamos começar pelo mais simples 😄
+# 👋 Hello, welcome to my GitHub!
+<br>I'm a mobile developer passionate about creating apps that make a difference! I work with technologies like Kotlin, Jetpack Compose, Firebase, and Hilt to build impactful Android applications. I enjoy exploring and applying best practices in architecture, like MVVM, to ensure the efficiency and scalability of my projects.<br><br>In addition to mobile development, I have a soft spot for back-end and am always looking for ways to make my solutions more comprehensive, functional, and well-integrated. I believe in the power of the open-source community and am always seeking new ways to contribute and learn!
 
 
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100008259308268) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-vieira-6353571a3/) 
+
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=for-the-badge&logo=Airbnb&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MiguelDK17&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MiguelDK17&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelDK17&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
